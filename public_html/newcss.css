@@ -1,0 +1,62 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 19, 2021, 1:19:43 PM
+    Author     : Wenjuan Lin
+*/
+h1 {
+    padding-left: 20px;
+}
+.yellowborders {
+    position: relative;
+    border-color: yellow;
+    border-width: 10px;
+    margin: 10px;
+    border-style: solid;
+    background-color: lightyellow;
+}
+
+.centerform {
+    margin: auto;
+    padding-left: 10rem;
+    padding-right: 10rem;
+}
+
+.leftbox {
+    padding: 2px 15px;
+    background-color: darkred;
+    text-align: center;
+}
+
+.rightbox {
+    padding: 2px 15px;
+    background-color: darkmagenta;
+    text-align: center;
+}
+
+.whitetext {
+    color: white;
+}
+
+.label1 {
+    width: 10rem;
+    text-align: right;
+}
+
+#age {
+    width: 50px;
+}
+#country {
+    width: 150px;
+}
+
+table {
+    width: 100%;
+}
+
+.pos {
+    margin-left: 20px;
+}
